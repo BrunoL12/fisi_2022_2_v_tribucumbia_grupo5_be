@@ -4,7 +4,7 @@
   "description": "Backend de la app Coetus",
   "main": "server.js",
   "scripts": {
-    "start": "node ./server.js"
+    "start": "node server.js"
   },
   "keywords": [
     "nodejs"
